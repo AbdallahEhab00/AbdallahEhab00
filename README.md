@@ -1,18 +1,17 @@
 ## Hi there -👋
-
 ## Welcome to my GitHub profile👋
 
 
 ## About Me :
 
-   Name: Abdallah Ehab        
-   Job Title: iOS Developer 📱 
-   Personal Resume:[RESUME](https://drive.google.com/file/d/1Yp2pIyi5h-7xkvWkAj36K_6dX5JSaVqS/view)📄
+   Name : Abdallah Ehab        
+   Job Title : iOS Developer 📱     
+    Personal Resume: [RESUME](https://drive.google.com/file/d/1Yp2pIyi5h-7xkvWkAj36K_6dX5JSaVqS/view)📄
 
 
 - 🔭 I’m currently working on Spotify App
-- 🌱 I’m currently learning SwiftUI 
-- 💬 Ask me about IOS , Swift , Software
+- 🌱 I’m currently learning and enahnce myself in IOS development , learn what is new in Swift and  SwiftUI .
+- 💬 Ask me about IOS , Swift , Software , Technologis.
 - 📫 How to reach me: abdallah.ehab2274@gmail.com / [LinkedIn](https://www.linkedin.com/in/abdallah-ehab-505652217/)
 
 ## My Repositories:
