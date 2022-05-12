@@ -6,7 +6,8 @@
 ## About Me :
 
    Name: Abdallah Ehab        
-   Job Title: iOS Application Developer 📱 
+   Job Title: iOS Developer 📱 
+   Personal Resume:[RESUME](https://drive.google.com/file/d/1Yp2pIyi5h-7xkvWkAj36K_6dX5JSaVqS/view)📄
 
 
 - 🔭 I’m currently working on Spotify App
