@@ -17,6 +17,7 @@
 ## My Repositories:
 
 ## Swift Projects:
+![avatar-placeholder-dark@3x](https://user-images.githubusercontent.com/55344010/171748860-b16ed8f0-a63e-4d92-84c7-c026991bb5f2.png) [GitHub Followers](https://github.com/AbdallahEhab00/GitHubFollowers) -> GitHub Followers is an iOS app based on GitHub API , that allows the user to search for Github users add them to you favorite list, browse user profile and more..
 
 🛍 [Shopify App](https://github.com/AbdallahEhab00/ShopifyApp) -> Shopify is an E-commerce IOS Application that's based on Shopify API , we working as a team to develop this app to provide our customers with all functionality and features they will need with the simplest UI to make them have fun shopping in our application.
 
